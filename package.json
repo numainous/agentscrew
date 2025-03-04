@@ -1,0 +1,14 @@
+{
+  "name": "agentscrew-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for AI Crew",
+  "main": "index.js",
+  "bin": {
+    "aicrew": "./bin/aicrew.js"
+  },
+  "scripts": {
+    "start": "node bin/aicrew.js"
+  },
+  "author": "numainous",
+  "license": "MIT"
+}
